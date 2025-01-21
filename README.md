@@ -1,5 +1,7 @@
 # Notes I took from TCM's Practical Help Desk Course
 
+# Course Curriculum
+
 Index: 
 1. [[1. Intro to IT]]
 2. [[2. Intro to Computing]]
