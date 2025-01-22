@@ -10,7 +10,7 @@ Index:
 5. [[5. Operating Systems]]
 6. [[6. Virtualization]]
 7. [[7. Windows]]
-8. [[Linux]]
+8. [[8. Linux]]
 9. [[Networking Fundamentals]]
 10. [[Remote Support]]
 11. [[Ticketing]]
