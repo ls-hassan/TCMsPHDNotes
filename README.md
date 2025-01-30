@@ -33,8 +33,8 @@ Index:
 8. [[8. Linux]]
 9. [[9. Networking Fundamentals]]
 10. [[10. Remote Support]]
-11. [[Ticketing]]
-12. [[Security]]
+11. [[11. Ticketing]]
+12. [[12. Security]]
 13. [[Active Directory Lab]]
 
 
