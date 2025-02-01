@@ -35,7 +35,7 @@ Index:
 10. [[10. Remote Support]]
 11. [[11. Ticketing]]
 12. [[12. Security]]
-13. [[Active Directory Lab]]
+13. [[13. Active Directory Lab]]
 
 
 ---
