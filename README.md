@@ -48,8 +48,7 @@ Index:
 
 ---
 
-Happy learning, and best of luck on your journey to becoming an IT support professional! 🌟
-
+Course Instructor: Andrew Bellini
 
 
 
